@@ -1,6 +1,6 @@
 {
-    "name": "baffoepolo",
-    "short_name": "baffoepolo",
+    "name": "baffoepolo_accounts",
+    "short_name": "baffoepolo_accounts",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
